@@ -1,0 +1,5 @@
+var estatura= 140
+var edad = 15
+//Para que las personas puedan subirse hay que hacer un if que
+//valide las 2 condiciones que pide para subirse a la montaña rusa.
+//if (estatura >=100 && edad>10)
